@@ -14,7 +14,7 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', 'cdc.mkxphu.ng.0001.apne1.cache.amazonaws.com:6379');
+define('WP_REDIS_HOST', 'cdc.mkxphu.ng.0001.apne1.cache.amazonaws.com');
  
 define('WP_HOME','http://d3aci8ah2tqk53.cloudfront.net');
 define('WP_SITEURL','http://d3aci8ah2tqk53.cloudfront.net');
