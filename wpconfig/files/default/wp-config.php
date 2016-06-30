@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'cdc.mkxphu.ng.0001.apne1.cache.amazonaws.com');
  
-define('WP_HOME','www.cupandhandle.co');
-define('WP_SITEURL','www.cupandhandle.co');
+define('WP_HOME','http://52.192.40.38');
+define('WP_SITEURL','http://52.192.40.38');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
